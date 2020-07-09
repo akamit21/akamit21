@@ -7,3 +7,9 @@
 </p>
 
 **:telescope: 2020 goal**<br><br>
+
+When I'm not coding, You'll find me on [My Twitter](https://twitter.com/amitaldo)
+
+:alien:: <https://akamit21.tech>
+:thought_balloon:: <https://dev.to/amitaldo>
+:mailbox_with_mail:: akamit21@outlook.com
